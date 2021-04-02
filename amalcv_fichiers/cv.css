@@ -1,0 +1,28 @@
+body{background-color: silver;
+}
+.conteneur{
+    display: flex;justify-content:space-between
+}
+.left{
+    width: 50%;
+    height: 50%;
+    margin-top: 50px;
+    margin-right: 300px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.right{
+    width: 50%;
+    height: 50%;
+}
+.h1{
+    font-style: oblique;
+    color: steelblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.h3{
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+}
+.photo{
+    background-color: tan;  
+}
